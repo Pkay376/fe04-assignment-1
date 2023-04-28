@@ -1,9 +1,41 @@
-.header {
-    background-color: blueviolet ;
+.header{
+    background-color: brown ;
 }
-. main {
-    background-color: purple;
+  .main{
+    background-color:black;
 }
 .footer{
-    background-color: beige;
+    background-color: green;
+}
+h1{
+    font-size: 20px;
+    color: black;
+}
+ul{
+    font-size: 10px;
+    color: blue;
+}
+p{
+    font-size: 15px;
+    color: red;
+}
+#first-item{
+    border: 10px;
+    color: yellow;
+}
+a:hover{
+    color: antiquewhite;
+
+}
+p::first-letter{
+    font size: 30px;
+    color:000#
+}
+.box{
+    padding: 20px;
+    margin: 10px;
+}
+.box{
+    padding: 20px;
+    margin: 10px;
 }
